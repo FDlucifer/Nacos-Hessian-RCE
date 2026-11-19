@@ -1,5 +1,7 @@
 # Nacos-Hessian-RCE PoC
 
+> **阅读定位：Nacos 历史安全研究归档。** 核对实际部署版本、厂商公告和审计记录时，可先读[防御阅读说明](DEFENSIVE-NOTES.md)。旧内容不代表当前产品的修复状态。原提交署名为 X1r0z。
+
 分析文章
 
 [https://t.zsxq.com/0f5hOnVRN](https://t.zsxq.com/0f5hOnVRN)
